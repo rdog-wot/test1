@@ -1,0 +1,68 @@
+<!DOCTYPE HTML><HTML lang="ja">
+<head>
+  <meta charset = "utf-8">
+  <meta description = "ホンドタヌキ tanuki wows raccoondog racoondog">
+  <meta keywords = "">
+  
+  <title>プレミアムじゃないタヌキのページへようこそ</title>
+  <link rel="shortcut icon" href="./favicon.ico" />
+  <link rel="stylesheet" href="./style.css">
+
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="./ratio.js"></script>  -->
+
+<script type="text/javascript">
+<!--
+$(window).load(function(){
+	$('#ick50').click(function() {
+		$("body").css("zoom","50%");
+	});
+	$('#ick100').click(function() {
+		$("body").css("zoom","100%");
+	});
+	$('#ick150').click(function() {
+		$("body").css("zoom","150%");
+	});
+	$('#ick200').click(function() {
+		$("body").css("zoom","200%");
+	});
+});
+// -->
+</script>
+      <script type="text/javascript" >
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', 'UA-134546377-1', 'auto');
+        // Plugins
+        
+        ga('send', 'pageview');
+      </script>
+
+
+
+
+
+
+</head><body>
+<div class="cWrap">
+  <p>ページ全体を以下の倍数に拡大・縮小します。</p>
+  <p id="ick50"  class="clBtn">50%</p> 
+  <p id="ick100" class="clBtn">100%</p>
+  <p id="ick150" class="clBtn">150%</p>
+  <p id="ick200" class="clBtn">200%</p>
+</div>
+<!--/cWrap-->
+
+
+<h2>たぬきは世界を平和にするポン !</h2>
+  <p><a href="https://wows.asia/racoondog">
+  Let's Play the World of Warships !! 
+     </a> Free to Play ! </p>
+  <p>たぬき鍋ダメ絶対ポン！！！</p>
+  <p>絶対不許煮狸鍋！</p>
+  <p>Never Boil Tanuki !!</p>
+  <p>Raccoon, its tail colored black-brown stripes. :
+    <img src="./pic/raccoon.jpg" alt="raccoon" width="400px" style="float:none;"></p>
+  <p>Japanese Tanuki, that likes transform somethings, eg. a human.; Just Joke ! :
+    <img src="./pic/tanuki.jpg" alt="tanuki" width="400px" style="float:none;"></p>
+</body></HTML>
